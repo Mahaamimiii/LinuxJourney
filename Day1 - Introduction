@@ -1,1 +1,7 @@
 # Linux 
+## OS
+The operating System is a software that helps in interaction of Hardware + Software.
+
+## Structure of Linux
+User Application(Docker,Apache) --> Shell(Bash) --> System Libraries (OpenSSL) --> Kernel(process, memory) --> Hardware(CPU,RAM)
+
